@@ -9,8 +9,8 @@
       cisco.ios.snmp_server:
         state: merged          
         config:            
-          location: 'Dublin'
-          packet_size: 700
+          location: 'Dallas'
+          packet_size: 900
           communities:
             - acl_v4: acl_uq
               name: Durham-community
