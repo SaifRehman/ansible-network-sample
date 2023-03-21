@@ -10,7 +10,7 @@
         state: merged          
         config:            
           location: 'Dallas'
-          packet_size: 900
+          packet_size: 500
           communities:
             - acl_v4: acl_uq
               name: Durham-community
